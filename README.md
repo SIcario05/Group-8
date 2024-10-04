@@ -22,7 +22,7 @@ A simple Streamlit app template for you to modify!
 ### Group 8 Members - BM7
 
    ```
-   **Name**: Acosta, John Paolo Miguel
+   Name: Acosta, John Paolo Miguel
    Student number: 2021136758
    GitHub Username: Pao227
 
