@@ -13,6 +13,7 @@ This section introduces the dataset used in the analysis. It includes an overvie
 First 5 Rows of the Dataset:
 Objective: Display the first five rows of the dataset to give a glimpse into its structure and content. It helps to identify the main features (columns) that will be analyzed.
 Dataset Information:
+
 Objective: Summarizes metadata about the dataset, such as the number of entries (rows), column names, data types, and memory usage.
 
 ### Descriptive Statistics:
@@ -23,7 +24,8 @@ Objective: Identifies any missing or null values in the dataset, which is import
 
 ### Count of Laptops by Company (All):
 Objective: Displays the total number of laptops from each company in the dataset. This helps analyze which companies dominate the laptop market.
-Count of Laptops by Company (Even Occurrences):
+Count of Laptops by Company (Even Occurrences)
+
 Objective: This likely counts only the companies that have an even number of laptops in the dataset, perhaps for filtering purposes or comparison.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
