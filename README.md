@@ -1,5 +1,9 @@
 #StreamlitURL- group8-3qnhokbbl49.streamlit.app
 
+About Our Project
+
+The goal of this project seems to be to create a laptop price analysis dashboard, which probably entails using a dataset that includes details on various laptop models, their costs, and their features. The analysis's goals are to shed light on laptop costs, the distribution of companies, and hardware details like RAM.
+
 
 
 
