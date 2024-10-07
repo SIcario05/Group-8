@@ -1,5 +1,7 @@
+
 #StreamlitURL- group8-3qnhokbbl49.streamlit.app
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### About Our Project:
 
@@ -24,6 +26,8 @@ Objective: Displays the total number of laptops from each company in the dataset
 Count of Laptops by Company (Even Occurrences):
 Objective: This likely counts only the companies that have an even number of laptops in the dataset, perhaps for filtering purposes or comparison.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Graph 1: Distribution of Laptop Prices in Euro:
 Objective: A histogram or other chart that shows how laptop prices are distributed across different price ranges. This visualization highlights whether prices are clustered at certain ranges or spread evenly.
 
@@ -47,6 +51,8 @@ Objective: A graph that displays how RAM is distributed across different laptop 
 
 ### Graph 8: Count of Laptops by Type:
 Objective: A graph that shows the number of laptops by type, providing insight into which laptop types are the most prevalent in the dataset.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Group 8 Members - BM7
 
