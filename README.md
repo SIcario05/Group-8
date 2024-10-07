@@ -5,7 +5,7 @@
 
 ### About Our Project:
 
-The goal of this project seems to be to create a laptop price analysis dashboard, which probably entails using a dataset that includes details on various laptop models, their costs, and their features. The analysis's goals are to shed light on laptop costs, the distribution of companies, and hardware details like RAM.
+- The goal of this project seems to be to create a laptop price analysis dashboard, which probably entails using a dataset that includes details on various laptop models, their costs, and their features. The analysis's goals are to shed light on laptop costs, the distribution of companies, and hardware details like RAM.
 
 ### Dataset Overview:
 This section introduces the dataset used in the analysis. It includes an overview of its contents, such as laptop models, prices (in Euro), company names, and specifications (like RAM, storage, and laptop type).
@@ -13,7 +13,7 @@ This section introduces the dataset used in the analysis. It includes an overvie
 First 5 Rows of the Dataset:
 Objective: Display the first five rows of the dataset to give a glimpse into its structure and content. It helps to identify the main features (columns) that will be analyzed.
 
-Dataset Information: Summarizes metadata about the dataset, such as the number of entries (rows), column names, data types, and memory usage.
+- Dataset Information: Summarizes metadata about the dataset, such as the number of entries (rows), column names, data types, and memory usage.
 
 ### Descriptive Statistics:
 Objective: Provides summary statistics of the numerical features in the dataset (e.g., mean, median, standard deviation, minimum, and maximum values). This section is critical for understanding data distributions, outliers, and the range of values.
